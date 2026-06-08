@@ -32,3 +32,6 @@ The final dataset is analysis-ready and can be used for:
 - Customer behavior analysis
 - Product performance evaluation
 - Dashboard creation in Excel, Power BI, or Tableau
+
+## Author 
+Mashkurat Ashimi 
